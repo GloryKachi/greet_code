@@ -14,8 +14,4 @@ if __name__ == '__main__':
 
     name = "Glory Kachi  MyJulie"
     first, second, third = name.split()
-    print("Simi's julie is",first)
-
-
-
-
+    print("Simi's julie is", third)
